@@ -1,0 +1,4 @@
+{
+  "description": "Placeholder for a very long dialogue. Add messages as an array of objects. Each message can have fields like 'speaker', 'timestamp', and 'text'.",
+  "messages": []
+}
